@@ -1,0 +1,6 @@
+module Pods_CraveReservation {
+  umbrella header "Pods-CraveReservation-umbrella.h"
+
+  export *
+  module * { export * }
+}

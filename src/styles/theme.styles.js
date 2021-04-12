@@ -1,0 +1,12 @@
+export default {
+    FONT_SIZE_SMALL: 14,
+    FONT_SIZE_MEDIUM: 16,
+    FONT_SIZE_LARGE: 24,
+    FONT_FAMILY: 'NotoSans',
+    PRIMARY_COLOR: '#f2eae5',
+    SECONDARY_COLOR: '#e0d4cd',
+    TERTIARY_COLOR: '#231f21',
+    FONT_WEIGHT_LIGHT: '400',
+    FONT_WEIGHT_MEDIUM: '600',
+    FONT_WEIGHT_HEAVY: '900',
+};
